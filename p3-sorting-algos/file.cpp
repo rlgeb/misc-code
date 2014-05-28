@@ -1,6 +1,6 @@
 /*********************************
 REBECCA GEBHARD 
-PROJ1-FILE IMPLIMENTATION
+FILE IMPLIMENTATION
 ********************************/
 #include "file.h"
 #include <iostream>
