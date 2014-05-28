@@ -1,7 +1,6 @@
 /******************************
 Rebecca Gebhard
-eecs281
-p2 - Dynamic Array implimentation
+Dynamic Array implimentation
 **************************/
 
 #include <iostream>
