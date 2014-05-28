@@ -1,6 +1,5 @@
 /*****************************
 REBECCA GEBHARD
-EECS281-PROJ3
 ***************************/
 
 #include <algorithm>
@@ -9,7 +8,7 @@ EECS281-PROJ3
 #include <fstream>
 #include "file.h"
 #include "DynamicArray.h"
-#include "p3.h" 
+#include "sort.h" 
 
 using namespace std;
 
