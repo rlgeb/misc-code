@@ -1,10 +1,10 @@
 /****************************
 REBECCA GEBHARD
-p2.cpp header file
+sort.cpp header file
 *****************************/
 
-#ifndef __P3_H__
-#define __P3_H__
+#ifndef __SORT_H__
+#define __SORT_H__
 
 //avoid literals
 //numbers 
