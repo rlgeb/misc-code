@@ -1,7 +1,6 @@
 /******************************
 Rebecca Gebhard
-eecs281
-p2
+DynamicArray.h
 **************************/
 
 #ifndef __DYNAMICARRAY_H__
