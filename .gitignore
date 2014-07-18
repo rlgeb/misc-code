@@ -1,5 +1,4 @@
-config.txt
-
-# Executables
+venv/
 *.out
 *.pyc
+*.ini
